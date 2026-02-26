@@ -1,7 +1,7 @@
 ---
 title: "주문·결제 시스템에서 트랜잭션 경계를 나누는 기준"
 date: 2026-02-25
-categories: [Architecture]
+categories: [architecture]
 tags: [spring, transaction, backend]
 ---
 

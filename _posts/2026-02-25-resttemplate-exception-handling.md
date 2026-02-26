@@ -1,7 +1,7 @@
 ---
 title: "HttpStatusCodeException 하나로 4xx/5xx 모두 처리하기"
 date: 2026-02-25
-categories: [Spring]
+categories: [spring]
 tags: [spring, resttemplate, exception]
 ---
 
