@@ -3,6 +3,10 @@ title: "주문·결제 시스템에서 트랜잭션 경계를 나누는 기준"
 date: 2026-02-25
 categories: [architecture]
 tags: [spring, transaction, backend]
+layout: single
+sidebar: false
+toc: false
+classes: wide
 ---
 
 커머스 시스템에서 가장 많이 고민했던 부분은 트랜잭션 범위였다.

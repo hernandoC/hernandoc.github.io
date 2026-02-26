@@ -3,6 +3,9 @@ title: "HttpStatusCodeException 하나로 4xx/5xx 모두 처리하기"
 date: 2026-02-25
 categories: [spring]
 tags: [spring, resttemplate, exception]
+layout: single
+toc: false
+classes: wide
 ---
 
 외부 API 호출 시 예외 처리를 단순화하기 위해 HttpStatusCodeException을 자주 사용했다.

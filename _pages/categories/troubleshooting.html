@@ -5,4 +5,19 @@ permalink: /categories/troubleshooting/
 taxonomy: categories
 entries_layout: list
 author_profile: true
+layout: single
+sidebar: false
+toc: false
+classes: wide
 ---
+
+{% assign posts = site.categories.troubleshooting %}
+
+{% for post in posts %}
+  <div class="archive__item">
+    <h2 class="archive__item-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <p>{{ post.excerpt }}</p>
+  </div>
+{% endfor %}
