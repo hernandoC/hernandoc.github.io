@@ -1,8 +1,6 @@
 ---
 title: "Architecture"
-layout: archive
+layout: categories
 permalink: /categories/architecture/
-taxonomy: categories
-entries_layout: list
 author_profile: true
 ---
