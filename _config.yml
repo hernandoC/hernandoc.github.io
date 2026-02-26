@@ -66,35 +66,37 @@ sidebar:
   nav: "main"
   
 author:
-  name   : "First Lastname"
+  name   : "Wanhee Choi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Spring 기반 백엔드 개발자. 운영 환경에서의 트랜잭션 설계와 데이터 정합성 문제 해결 경험을 기록합니다."
+  location : "Seoul, Korea"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/hernandoC"
+
+    - label: "Resume"
+      icon: "fas fa-file-alt"
+      url: "/resume/"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:wanhi2k@gmail.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/hernandoC"
 
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/resume/"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your@email.com"
+      
 defaults:
   # _posts
   - scope:

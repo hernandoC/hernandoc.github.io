@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Architecture"
+    url: /categories/architecture/
+
+  - title: "Spring"
+    url: /categories/spring/
+
+  - title: "SQL"
+    url: /categories/sql-tuning/
+
+  - title: "Payment"
+    url: /categories/payment/
+
+  - title: "Troubleshooting"
+    url: /categories/troubleshooting/
