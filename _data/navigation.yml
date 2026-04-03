@@ -1,15 +1,20 @@
 main:
   - title: "Architecture"
     url: /categories/architecture/
+    nav_exclude: false
 
   - title: "Spring"
     url: /categories/spring/
+    nav_exclude: false
 
   - title: "SQL"
     url: /categories/sql-tuning/
+    nav_exclude: false
 
   - title: "Payment"
     url: /categories/payment/
+    nav_exclude: false
 
   - title: "Troubleshooting"
     url: /categories/troubleshooting/
+    nav_exclude: false
