@@ -2,8 +2,10 @@
 layout: post
 title: "GitLab CE 구축 및 CI/CD 배포 자동화 (실운영 기준)"
 date: 2026-04-03
-categories: [DevOps, GitLab, CI/CD]
+categories: [Architecture]
 tags: [gitlab, cicd, devops, on-premise]
+toc: false
+classes: wide
 ---
 
 # GitLab CE 구축 및 CI/CD 배포 자동화 (실운영 기준)
